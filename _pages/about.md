@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Emmanuel Terkimbi Akov"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Emmanuel Terkimbi Akov is a Lecturer I in the Department of Political Science, Faculty of Social Sciences, University of Uyo, Akwa Ibom State, Nigeria, where he has served since December 2013. His teaching and research span Comparative Politics, International Relations, and Nigerian Government and Politics, with a particular focus on conflict, displacement, and democratization in Africa.
+Dr Emmanuel Terkimbi Akov is a Lecturer in the Department of Political Science, Faculty of Social Sciences, University of Uyo, Akwa Ibom State, Nigeria, where he has served since December 2013. His teaching and research span Comparative Politics, International Relations, and Nigerian Government and Politics, with a particular focus on conflict, displacement, and democratization in Africa.
 
 He holds a Ph.D. in Comparative Politics from the University of Nigeria, Nsukka (2023), an M.Sc. in Comparative Politics and Development Studies from the University of Benin (2013), and a B.Sc. (Second Class Honours, Upper Division) in Political Science from Benue State University (2007).
 
