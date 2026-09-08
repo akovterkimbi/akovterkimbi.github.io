@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Comparative Politics, University of Nigeria, Nsukka, 2023
+* M.Sc. in Comparative Politics and Development Studies, University of Benin, 2013
+* B.Sc. in Political Science (Second Class Honours, Upper Division), Benue State University, 2007
+* West African Senior School Certificate (WAEC), 2002
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2024 - Present: Lecturer I, Department of Political Science, University of Uyo
+* October 2017 - December 2023: Lecturer II, Department of Political Science, University of Uyo
+* December 2013 - October 2017: Assistant Lecturer, Department of Political Science, University of Uyo
+* 2008 - 2009: National Youth Service Corps (NYSC) Member, Department of Political Science and Public Administration, University of Benin
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Responsibilities Held
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Examinations Officer (Regular), Department of Political Science, 2024 - Present
+* Secretary, Departmental Board, 2017 - 2021
+* Member, Departmental Committee on Accreditation of Undergraduate Programmes, 2016 - 2019
+* Undergraduate Project Coordinator (Regular), 2014 - 2016
+
+Membership of Professional Bodies
+======
+* Member, Lagos Studies Association (LSA), 2025 - Present
+* Member, Nigerian Political Science Association (NPSA), 2019 - Present
+* Member, Researchers International Network (RIN), 2014 - Present
+* Associate Member, Nigerian Institute of Management (NIM), 2009 - Present
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
