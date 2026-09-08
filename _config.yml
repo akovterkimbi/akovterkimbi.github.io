@@ -36,9 +36,9 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL
+  pubmed           : 
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : 
   zotero           : # URL
 
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Username # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
