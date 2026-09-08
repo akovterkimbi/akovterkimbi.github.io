@@ -382,7 +382,7 @@ body:hover .visually-hidden button {
   @include breakpoint($large) {
     @include clearfix();
     position: -webkit-sticky;
-    position: sticky;
+    position: relative;
     top: 2em;
 
     > * {
